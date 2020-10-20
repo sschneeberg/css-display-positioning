@@ -1,0 +1,25 @@
+div {
+    border: blueviolet 2px solid;
+    position: relative;
+}
+
+p {
+    border: orangered 2px solid;
+    padding: 2em;
+}
+
+.one {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
+
+.two {
+    width: fit-content;
+    display: static;
+}
+
+.three {
+    width: fit-content;
+    display: fixed;
+}

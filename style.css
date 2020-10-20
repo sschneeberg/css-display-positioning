@@ -1,3 +1,23 @@
 .container {
     border: red 2px solid;
 }
+
+p {
+    border: black 2px solid;
+}
+
+.one {
+    display: block;
+}
+
+.two {
+    display: inline;
+}
+
+.three {
+    display: inline-block;
+}
+
+.four {
+    display: hidden;
+}
